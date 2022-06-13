@@ -4,15 +4,15 @@ As part of the PLOS ONE paper 'A study of UK household wealth through empirical 
 
 1) Wealth data used from the ONS wealth and asset survey. 
  https://www.ons.gov.uk/peoplepopulationandcommunity/personalandhouseholdfinances/incomeandwealth/datasets/totalwealthwealthingreatbritain/july2006tojune2016 (Accessed June 2022)
- Data file totalwealthtablesGB.xlsx
+ Data file: totalwealthtablesGB.xlsx
 3) Forbes Rich lists extracted from R package found here https://github.com/abresler/forbesListR (Accessed June 2022)
 4) Times rich lists saved from time dependent website. 
    https://www.thetimes.co.uk/sunday-times-rich-list#TableFullRichList (Accessed June 2022)
    Data files for 2019, 2020 and 2021: times_rich_list_2019.csv, times2020.txt, Times_top250_2021.txt
 5) 2016 ONS income data 
  https://www.ons.gov.uk/peoplepopulationandcommunity/personalandhouseholdfinances/incomeandwealth/datasets/householddisposableincomeandinequality
- Data file hh_income_2016.xls
+ Data file: hh_income_2016.xls
  (Accessed June 2022)
 6) 2016 ONS expenditure data
  https://www.ons.gov.uk/peoplepopulationandcommunity/personalandhouseholdfinances/expenditure/datasets/detailedhouseholdexpenditurebydisposableincomedecilegroupuktable31 (Accessed June 2022)
-Data file hh_expenditure_2016.xls
+Data file: hh_expenditure_2016.xls
