@@ -1,0 +1,251 @@
+1 (4)	Sir Leonard Blavatnik	£23bn	£7.219bn	Investment, music and media
+2 (2=)	David and Simon Reuben	£21.465bn	£5.465bn	Property and internet
+3 (2=)	Sri and Gopi Hinduja and family	£17bn	£1bn	Industry and finance
+4 (1)	Sir James Dyson and family	£16.3bn	£100m	Household goods and technology:Dyson
+5 (19)	Lakshmi Mittal and family	£14.68bn	£7.899bn	Steel: ArcelorMittal
+6 (7)	Alisher Usmanov	£13.406bn	£1.726bn	Mining and investment
+7 (6)	Kirsten and Jorn Rausing	£13bn	£900m	Inheritance and investment: Tetra Laval
+8 (12)	Roman Abramovich	£12.101bn	£1.945bn	Oil and industry
+9 (9)	Charlene de Carvalho-Heineken and Michel de Carvalho	£12.013bn	£1.713bn	Inheritance, brewing and banking
+10 (8)	Guy, George, Alannah and Galen Weston and family	£11bn	£470m	Retailing
+11 (11)	Mikhail Fridman	£10.797bn	£563m	Industry: Alfa Group and LetterOne
+12 (10)	The Duke of Westminster and the Grosvenor family	£10.054bn	£241m	Property
+13 (13)	Marit, Lisbet, Sigrid and Hans Rausing	£9.49bn	£100m	Inheritance: Tetra Laval
+14 (14)	Ernesto and Kirsty Bertarelli	£9.2bn	No change	Pharmaceuticals
+15 (15)	Anil Agarwal	£9bn	£500m	Mining: Vedanta Resources
+16 (21)	François-Henri Pinault and Salma Hayek	£8.675bn	£2.083bn	Fashion and films: Kering
+17 (16)	Denise, John and Peter Coates	£8.448bn	£1.282bn	Gambling: Bet365
+18 (24)	Michael Platt	£8bn	£3.141bn	Hedge fund
+19 (20)	John Fredriksen and family	£7.831bn	£1.206bn	Shipping and oil services
+20 (New)	German Khan	£7.167bn	New entry	Industry: Alfa Group and LetterOne
+21 (25)	Barnaby and Merlin Swire and family	£6.5bn	£1.7bn	Industry, transport and property
+22 (33)	Sir Henry Keswick and family	£6.471bn	£2.471bn	Property, retailing and hotels
+23 (29)	Stephen Rubin and family	£6.394bn	£2.169bn	Sportswear: Pentland and JD Sports
+24 (18)	Earl Cadogan and family	£6.37bn	£447m	Property
+25 (5)	Sir Jim Ratcliffe	£6.33bn	£5.82bn 	Chemicals: Ineos
+26 (New)	Denis Sverdlov	£6.173bn	New entry	Electric vehicles: Arrival
+27 (36)	Ian and Richard Livingstone	£6.1bn	£2.2bn	Property and gambling: Evolution
+28= (26)	Anders Povlsen	£6bn	£1.27bn	Fashion: Bestseller and Asos
+28= (17)	The Barclay family	£6bn	£1bn	Property, media and internet retailing
+30 (22)	John Grayken	£5.87bn	£179m	Property and investment
+31 (23)	Nicky Oppenheimer and family	£5.797bn	£197m	Diamonds and mining
+32 (New)	Igor and Dmitry Bukhman	£5.652bn	New entry	Games: Playrix
+33 (New)	Guillaume Pousaz	£5.543bn	New entry	Online payments: Checkout.com
+34 (New)	Alexey Kuzmichev	£5.457bn	New entry	Industry: Alfa Group and LetterOne
+35 (35)	Leonie Schroder and family	£5.215bn	£1.238bn	Finance
+36 (42)	Sri Prakash Lohia	£4.783bn	£1.178bn	Textiles and plastics
+37 (43)	Mohsin and Zuber Issa	£4.68bn	£1.12bn	Fuel distribution and supermarkets
+38 (27)	Lord Bamford and family	£4.595bn	£105m	Construction equipment: JCB
+39 (48)	Idan Ofer	£4.565bn	£1.346bn	Shipping and industry
+40 (30=)	Tom Morris and family	£4.361bn	£261m	Discount stores: Home Bargains
+41 (34)	Joe Lewis	£4.33bn	£338m	Foreign exchange and investment
+42 (39)	Nathan Kirsh	£4.178bn	£522m	Cash and carry, property and investment
+43 (46)	Carrie and François Perrodo and family	£3.913bn	£475m	Oil, gas and wine
+44 (38)	Teddy Sagi	£3.838bn	£166m	Software and property
+45 (40)	Sir Richard Branson and family	£3.79bn	£165m	Transport, finance and fitness clubs
+46 (28)	Baroness Howard de Walden and family	£3.722bn	£594m	Property
+47 (49)	Glenn Gordon and family	£3.595bn	£409m	Spirits: William Grant & Sons
+48 (45)	Moshe Kantor	£3.522bn	£34m	Chemicals: Acron
+49 (44)	Mark Scheinberg	£3.519bn	£36m	Gambling: PokerStars
+50= (41)	Eddie and Sol Zakay	£3.5bn	£110m	Property
+50= (51)	Sir Michael Moritz and Harriet Heyman	£3.5bn	£453m	Internet
+52 (47)	Mark Pears and family	£3.28bn	£20m	Property
+53 (37)	Laurence and François Graff	£3.2bn	£585m	Diamonds
+54 (New)	Yakir Gabay	£3bn	New entry	Property
+55 (66)	Benzion Freshwater and family	£2.96bn	£906m	Property
+56 (81)	John Shaw and Kiran Mazumdar-Shaw and family	£2.942bn	£1.134bn	Pharmaceuticals: Biocon
+57 (53)	Alan Parker	£2.846bn	£23m	Duty-free shopping
+58 (54)	Jaime Gilinski	£2.754bn	£98m	Finance
+59 (59)	Alki David and the Leventis family	£2.753bn	£403m	Drinks and media: Coca-Cola
+60 (52)	Samuel Tak Lee and family	£2.731bn	£119m	Property
+61 (75)	Mike Ashley	£2.718bn	£769m	Sports equipment and fashion
+62 (70=)	Nicholas Roditi and family	£2.701bn	£701m	Investment
+63 (55)	Inna Gudavadze and family	£2.65bn	No change	Inheritance
+64 (65)	Simon, Bobby and Robin Arora	£2.524bn	£413m	Discount stores: B&M
+65= (56=)	Bernie Ecclestone and family	£2.5bn	No change	Motor racing
+65= (56=)	Clive Calder	£2.5bn	No change	Music: Zomba
+65= (111=)	Sir Chris Hohn	£2.5bn	£1.2bn	Hedge fund
+68 (64)	Jean-François Decaux and family	£2.47bn	£347m	Media and advertising
+69 (58)	Peter Hargreaves	£2.41bn	£10m	Finance: Hargreaves Lansdown
+70= (69)	Alejandro Santo Domingo and Lady Charlotte Wellesley	£2.4bn	£369m	Inheritance, brewing and investment
+70= (62)	Johan Eliasch	£2.4bn	£200m	Sports equipment: Head
+72 (60)	Tony Murray and family	£2.3bn	No change	Plant hire, property and fire protection
+73 (61)	The Lazari family	£2.224bn	£10m	Property
+74 (30=)	Andy Currie	£2.22bn	£1.88bn	Chemicals: Ineos
+75= (70=)	Eddie and Malcolm Healey	£2.2bn	£200m	Property and kitchens
+75= (30=)	John Reece	£2.2bn	£1.9bn	Chemicals: Ineos
+77 (85)	Sir Stelios Haji-Ioannou and family	£2.175bn	£421m	Aviation: easyJet
+78 (149)	Matt and Jodie Moulding	£2.1bn	£1.14bn	Internet retailing: The Hut Group
+79= (67=)	Chris and Sarah Dawson	£2.05bn	No change	Discount stores: The Range
+79= (150)	Douw Steyn and family	£2.05bn	£1.1bn	Insurance: Comparethemarket
+81 (76)	Philippe Foriel-Destezet	£2.028bn	£115m	Recruitment: Adecco
+82= (79)	Farhad Moshiri	£2bn	£125m	Investment and football: Everton
+82= (82=)	John Christodoulou	£2bn	£200m	Property
+82= (New)	José Neves	£2bn	New entry	Fashion: Farfetch
+82= (77=)	Lord Paul and family	£2bn	£100m	Industry
+82= (63)	Robert Miller and Princess Marie-Chantal and family	£2bn	£150m	Duty-free shopping, fashion and finance
+82= (70=)	Sheikh Hamad bin Jassim Al Thani	£2bn	No change	Investment and property
+82= (67=)	Viscount Portman and family	£2bn	£50m	Property
+89 (70=)	Wafic Said	£1.985bn	£15m	Finance and property
+90 (86)	Sir Ian Wood and family	£1.819bn	£119m	Oil services and fishing
+91 (105=)	Simon Nixon	£1.8bn	£450m	Internet and property
+92 (99)	Will Adderley and family	£1.789bn	£320m	Home furnishing: Dunelm
+93 (152=)	Sir David McMurtry	£1.78bn	£848m	Engineering: Renishaw
+94 (155)	Paul Coulson and family	£1.765bn	£841m	Packaging: Ardagh
+95 (98)	Jonas and Mathias Kamprad	£1.739bn	£260m	Retailing: Ikea
+96= (87)	Mohamed Al Fayed and family	£1.7bn	£25m	Retailing: Harrods
+96= (82=)	Navin and Varsha Engineer	£1.7bn	£100m	Pharmaceuticals: Chemidex
+98 (88)	Mahdi al-Tajir	£1.687bn	£18m	Metals, oil and water: Highland Spring
+99 (89)	Georg and Emily von Opel	£1.654bn	No change	Finance and property
+100 (92)	Thor Bjorgolfsson	£1.6bn	£37m	Finance and investment
+101 (95=)	John Gore	£1.579bn	£79m	Entertainment
+102 (100)	Mark Coombs	£1.574bn	£154m	Finance
+103 (91)	John Caudwell	£1.566bn	No change	Mobile phones: Phones 4u
+104 (151)	Sir Dennis and Lady Gillings	£1.557bn	£624m	Pharmaceuticals: IQVIA
+105 (152=)	Peter Harris and family	£1.534bn	£602m	Hotels and caravan parks
+106 (94)	Adam Fleming and family	£1.525bn	No change	Finance
+107= (123=)	Alan Howard	£1.5bn	£300m	Hedge fund
+107= (70=)	Richard Desmond	£1.5bn	£500m	Media and property: Northern & Shell
+107= (95=)	Sir Michael Hintze	£1.5bn	No change	Hedge fund
+110 (208)	Telis Mistakidis	£1.497bn	£801m	Commodities: Glencore
+111 (95=)	Poju and Anita Zabludowicz	£1.495bn	£5m	Property and hotels
+112 (156)	Henri Beaufour	£1.492bn	£571m	Pharmaceuticals: Ipsen
+113 (New)	Johnny Boufarhat	£1.446bn	New entry	Internet: Hopin
+114 (111=)	Geoffrey Warren	£1.445bn	£145m	Car sales: Cargiant and property
+115 (77=)	Bernard Lewis and family	£1.44bn	£460m	Fashion and property: River Island
+116 (183=)	Mark Dixon	£1.437bn	£667m	Serviced offices
+117 (245)	Vladimir Kim	£1.427bn	£848m	Mining: Kaz Minerals
+118 (142)	Mahmud Kamani and family	£1.422bn	£391m	Internet retailing: Boohoo
+119 (128)	Mike Danson	£1.408bn	£238m	Media
+120= (108)	Christoph Henkel	£1.4bn	£64m	Chemicals
+120= (90)	John Whittaker and family	£1.4bn	£200m	Property: The Peel Group
+122 (102)	Niklas Zennstrom	£1.397bn	No change	Internet and software: Skype
+123 (110)	Stefan Sten Olsson	£1.377bn	£63m	Shipping
+124 (105=)	Steve Lansdown	£1.365bn	£15m	Finance: Hargreaves Lansdown
+125 (50)	Sir Anwar Pervez and family	£1.364bn	£1.738bn	Cash and carry: Bestway
+126 (111=)	Jon Hunt	£1.345bn	£45m	Estate agency and property: Foxtons
+127 (226)	Lord and Lady Cruddas	£1.321bn	£698m	Finance
+128 (111=)	Raj, Tony and Harpal Matharu and family	£1.3bn	No change	Property and hotels: Grange
+129 (80)	John Bloor	£1.275bn	£592m	Construction and motorcycles: Triumph
+130 (101)	The Thomson family	£1.271bn	£136m	Media
+131 (109)	Trond Mohn and Marit Mohn Westlake and family	£1.259bn	£66m	Industry
+132 (123=)	Lord Ashcroft and family	£1.257bn	£57m	Business services
+133= (116=)	Andrey Andreev	£1.25bn	No change	Internet
+133= (174=)	Chris Rokos	£1.25bn	£450m	Hedge fund
+135 (107)	Lady Ballyedmond and family	£1.247bn	£98m	Pharmaceuticals: Norbrook
+136 (119=)	Sir Terry Matthews	£1.24bn	No change	Computers
+137 (123=)	Fred and Peter Done	£1.235bn	£35m	Gambling: Betfred
+138= (82=)	Douglas and Dame Mary Perkins and family	£1.2bn	£600m	Opticians: Specsavers
+138= (123=)	Elisabeth Murdoch	£1.2bn	No change	Media
+138= (203=)	John Armitage	£1.2bn	£500m	Hedge fund
+138= (122)	Lord Grantchester and the Moores family	£1.2bn	£6m	Retailing and football pools
+138= (135=)	Lord Spencer	£1.2bn	£100m	Finance
+138= (121)	Lord Sugar	£1.2bn	£10m	Property
+138= (119=)	Sir Cameron Mackintosh	£1.2bn	£40m	Entertainment
+145 (115)	Surinder Arora and family	£1.185bn	£80m	Hotels
+146 (127)	Nadhmi Auchi	£1.182bn	No change	Finance
+147 (144)	Jasminder Singh and family	£1.18bn	£165m	Hotels: Edwardian
+148 (129)	Henning Conle and family	£1.168bn	No change	Property: Sirosa
+149 (116=)	Sunil Vaswani and family	£1.159bn	£91m	Transport and food: Stallion Group
+150 (137)	Peter Jones and family	£1.157bn	£65m	Property
+151 (134)	Lady Philomena Clark and family	£1.141bn	£10m	Car sales: Arnold Clark
+152 (132=)	Lord Kirkham and family	£1.14bn	No change	Furniture and investment: DFS
+153 (131)	Yelena Baturina	£1.133bn	£11m	Construction
+154 (165=)	Henry Engelhardt and Diane Briere de l'Isle	£1.126bn	£266m	Insurance: Admiral
+155 (143)	Trevor Hemmings	£1.115bn	£90m	Property
+156 (104)	Henry Moser and family	£1.102bn	£280m	Finance: Together
+157 (138=)	Tony Gallagher	£1.1bn	£50m	Property
+158 (256)	Alex Beard	£1.091bn	£544m	Commodities: Glencore
+159 (New)	Strive Masiyiwa	£1.087bn	New entry	Telecoms
+160 (192)	Viscount Rothermere and family	£1.08bn	£342m	Media
+161 (212=)	Lord Rothschild and family	£1.052bn	£402m	Finance
+162 (135=)	David and Jack Sullivan and family	£1.04bn	£60m	Property, football and media
+163 (197=)	Peter Kelly	£1.035bn	£307m	Software: Softcat
+164 (171)	Richard Caring	£1.005bn	£185m	Restaurants and property
+165= (162)	Christina Ong and family	£1bn	£122m	Retailing and hotels
+165= (New)	Howard Shore	£1bn	New entry	Finance
+165= (145=)	Jim McColl	£1bn	No change	Engineering: Clyde Blowers
+165= (361=)	Nikolay Storonsky	£1bn	£637m	Financial services
+165= (145=)	Ursula Bechtolsheimer-Kipp	£1bn	No change	Inheritance and hotels: Tschuggen
+165= (145=)	Vladimir Makhlai	£1bn	No change	Industry
+165= (247)	William Bollinger	£1bn	£440m	Hedge fund
+172 (140)	Tom Sandell	£972m	£76m	Finance
+173 (172)	Charles Cayzer and family	£959m	£140m	Finance
+174 (148)	Urs Schwarzenbach	£946m	£30m	Foreign exchange
+175 (158)	The Earl of Iveagh and the Guinness family	£934m	£28m	Brewing and property
+176 (157)	Manfred Gorvy and family	£921m	£3m	Property and food
+177 (154)	Sir Philip and Lady Green	£910m	£20m	Retailing
+178 (168)	Caspar MacDonald-Hall and family	£909m	£67m	Property
+179 (159=)	Luke and Brian Comer	£906m	£6m	Property
+180 (163)	Sir Roger and Peter De Haan	£900m	£24m	Travel and insurance: Saga
+181 (141)	Lord Edmiston	£897m	£150m	Car sales and property
+182= (190)	Roy Richardson and family	£895m	£150m	Property
+182= (161)	The Duke of Devonshire	£895m	No change	Land
+184 (269=)	Philip Gabriel and family	£892m	£392m	Property
+185 (187)	Steve Morgan	£881m	£130m	Construction
+186 (165=)	Ellis Short	£880m	£20m	Finance
+187 (284)	Alex Gerko	£875m	£411m	Finance
+188 (164)	Peter and Anna Margaret Smedvig and family	£872m	No change	Shipping, oil and gas services
+189 (169)	Patricia Thompson and family	£869m	New entry	Food and horseracing
+190 (281)	Mike Lynch and Angela Bacares	£865m	£396m	Software: Autonomy and Darktrace
+191= (240=)	Andrew Brode	£858m	£273m	Business services
+191= (130)	Martin Naughton and family	£858m	£300m	Household goods: Glen Dimplex
+193 (338)	Christian Angermayer	£850m	£454m	Finance
+194 (New)	Ali Parsa	£825m	New entry	Internet: Babylon
+195 (305=)	John Deer	£823m	£383m	Engineering: Renishaw
+196= (178)	Joanne Rowling	£820m	£25m	Novels and films
+196= (174=)	Sir Paul McCartney and Nancy Shevell	£820m	£20m	Music and transport
+198 (179)	Sir Peter Wood	£815m	£25m	Insurance: esure
+199 (197=)	Andy Brown	£813m	£85m	Hedge fund
+200 (116=)	Martin Moller	£809m	£441m	Aviation
+201 (173)	Peter Green and family	£805m	No change	Mining and inheritance
+202= (New)	Camilla Bueno Grossi	£797m	New entry	Inheritance and healthcare
+202= (167)	Mo Ibrahim	£797m	£62m	Mobile phones
+204 (103)	Tony Langley	£790m	£605m	Engineering
+205= (180)	Lord Laidlaw	£787m	No change	Conferences
+205= (188=)	The Duke of Bedford	£787m	£37m	Land and Art
+207 (188=)	Marcus Evans	£786m	£36m	Business services
+208 (181)	Ruth Parasol and family	£780m	No change	Gambling
+209= (182)	Prince Jonathan and Princess Gesine Doria Pamphilj	£775m	No change	Inheritance
+209= (209=)	Sir Charles Dunstone	£775m	£94m	Mobile phones
+209= (183=)	Sir Peter, James and Steve Rigby	£775m	£5m	Computers, aviation and hotels
+212= (186)	James and John Martin and family	£774m	£21m	Ejection seats
+212= (238)	John Kirkland and family	£774m	£179m	Construction
+214 (183=)	Paul Sykes	£770m	No change	Property
+215 (New)	Alex Chesterman	£750m	New entry	Internet
+216 (243=)	Anna Seeley and family	£749m	£168m	Property: CLS Holdings
+217 (202)	Yan Huo	£748m	£38m	Hedge fund
+218 (193)	Freddie Linnett and the Murphy family	£741m	£10m	Property
+219 (228=)	Gerald Ronson and family	£735m	£125m	Property and fuel distribution
+220 (194=)	Slavica Ecclestone	£730m	No change	Divorce
+221 (225)	Sir Tom Hunter	£729m	£104m	Retailing and property
+222 (194=)	Fawn and India Rose James and family	£721m	£9m	Property: Soho Estates
+223 (201)	Sir Lloyd Dorfman and family	£720m	No change	Foreign exchange and property
+224 (199=)	The Vestey family	£717m	£4m	Meat
+225 (203=)	Sir Evelyn and Lady de Rothschild	£702m	£2m	Finance and media
+226= (873=)	Ben Francis	£700m	£562m	Sportswear: Gymshark
+226= (203=)	May Makhzoumi and family	£700m	No change	Industry
+228 (199=)	Chris Oglesby and family	£696m	£25m	Property: Bruntwood
+229 (211)	Bill, Will and Richard Ainscough and family	£688m	£20m	Property
+230 (209=)	Clinton, Spencer and John McCarthy	£681m	No change	Construction
+231 (228=)	Sir Martin Franklin	£680m	£70m	Finance and food
+232 (219)	David Ross	£676m	£34m	Mobile phones and property
+233 (New)	Stephen Fitzpatrick	£675m	New entry	Energy: Ovo
+234 (224)	Ross Turner	£653m	£25m	Hedge fund
+235= (227)	David Wilson and family	£650m	£28m	Construction
+235= (233=)	George and Constantine Logothetis and family	£650m	£50m	Shipping, property and aviation
+235= (194=)	Sir Brian Souter and Dame Ann Gloag	£650m	£80m	Transport: Stagecoach
+238 (217=)	The Jatania brothers	£648m	£5m	Toiletries, property and fashion
+239= (221=)	Ian Wace	£645m	£15m	Hedge fund
+239= (216)	Robert, Barry and Timothy Guest	£645m	No change	Building supplies
+239= (221=)	Sir Paul Marshall	£645m	£15m	Hedge fund
+242 (228=)	William Morrison and Eleanor Kernighan and family	£641m	£31m	Supermarkets: Morrisons
+243 (243=)	Charles Gallagher and family	£640m	£59m	Construction
+244 (93)	Lord Choudrey and family	£633m	£898m	Cash and carry and pharmacies
+245= (221=)	Adrian Binks	£630m	No change	Business services: Argus Media
+245= (217=)	Helene and Marianne Odfjell and family	£630m	£13m	Oil services
+247 (286=)	Richard Harpin	£627m	£167m	Insurance and repair services
+248 (326=)	Tim Steiner and family	£625m	£222m	Internet retailing: Ocado
+249 (215)	The Sheppard family	£616m	£33m	Scrap metal
+250 (220)	Tom Gibbon and family	£613m	£27m	Property
+
