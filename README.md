@@ -1,4 +1,4 @@
-As part of the PLOS ONE paper 'A study of UK household wealth through empirical analysis and a non-linear Kesten process' we give details of where we found the data for analysis. All data was publicly available. The key files for anlaysis are saved here (under different file names as those downloaded from the links)
+As part of the PLOS ONE paper 'A study of UK household wealth through empirical analysis and a non-linear Kesten process', https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0272864, we give details of where we found the data for analysis. All data was publicly available. The key files for anlaysis are saved here (under different file names as those downloaded from the links)
 
 1) Wealth data used from the ONS wealth and asset survey. 
  https://www.ons.gov.uk/peoplepopulationandcommunity/personalandhouseholdfinances/incomeandwealth/datasets/totalwealthwealthingreatbritain/july2006tojune2016 (Accessed June 2022)
